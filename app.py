@@ -9,7 +9,7 @@ def home():
                 <title>CI/CD</title>
                 </head>
                 <body>
-                <h1> Hello DBS Network CA Thank you sir!!!. </h1>
+                <h1> Hello DBS!!!. </h1>
                 </body>
                 </html>'''
 
